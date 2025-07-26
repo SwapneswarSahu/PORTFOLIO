@@ -1,0 +1,10 @@
+👨‍💼 Profile Summary
+I am Swapneswar Sahu, a passionate and dedicated Computer Science and Engineering student with a strong foundation in C, C++, HTML, CSS, JavaScript, MySQL, and Data Structures & Algorithms (DSA). I have hands-on experience in building practical projects like Supermarket Management System, Hospital Management System, Online Calculator, Tic-Tac-Toe Game, and Snake Game.
+
+With a solid understanding of web development and problem-solving, I actively practice coding on platforms like LeetCode, GeeksforGeeks, and HackerRank. I also have working knowledge of SQL databases using MySQL and Oracle SQL tools, enabling me to build real-world data-driven applications.
+
+Beyond academics, I’m a creative individual with hobbies like sketch art, graphic design, playing cricket, and traveling to new places.
+
+link: <a href="Swapneswar_sahu 145_RESUME.docx" download>
+  📄 Download My CV
+</a>
